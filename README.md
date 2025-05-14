@@ -591,5 +591,4 @@
 
         stopBtn.addEventListener('click', () => {
             if (sendIntervalId) {
-                clearInterval(sendIntervalId);
-       
+                clearInterval(sendIntervalId);      
